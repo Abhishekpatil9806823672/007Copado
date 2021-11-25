@@ -20,7 +20,7 @@ Input password
       TypeSecret           //input[@id\='password']             ${password}      
     
 *** Test Cases ***
-Assignment3
+Assignment4
     Open Browser To Login page
     Input Username         ${email}
     Input password          ${password}
