@@ -35,7 +35,7 @@ Assignment4
     DropDown                 runType                       development
     Sleep                    2s
     ClickText                xpath\=//button[@id\='suite-run-btn']
-    Sleep                    1s
+    Sleep                    3s
     SwitchWindow             NEW
     VerifyText               Please wait while the video stream is being created. This page will auto-update once it is ready.
     XhrTimeout                10s    
