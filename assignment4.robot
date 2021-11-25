@@ -38,7 +38,7 @@ Assignment4
     Sleep                    3s
     SwitchWindow             NEW
     VerifyText               Please wait while the video stream is being created. This page will auto-update once it is ready.
-    XhrTimeout                10   
+    Sleep                   10s   
 
 
     
